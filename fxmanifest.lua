@@ -29,6 +29,7 @@ files {
 	'html/index.html',
 	'html/js/script.js',
 	'html/css/style.css',
+	'html/imgs/background.jpg',
 }
 
 dependency 'es_extended'
